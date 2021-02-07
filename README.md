@@ -2,7 +2,7 @@
 
 atm project
 
-idman project
+idman (gym) project
 
 java hotel system project
 
