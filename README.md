@@ -1,11 +1,5 @@
 # JAVA-WORKS
 
-if - else
-
-while - do loops
-
-for loops
-
-mini bank project
+java hotel system project
 
 other projects
