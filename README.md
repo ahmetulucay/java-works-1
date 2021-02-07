@@ -1,7 +1,15 @@
 # JAVA-WORKS
 
+atm project
+
+idman project
+
 java hotel system project
+
+beyblade project
 
 city tour project
 
-other projects
+singer project
+
+travel abroad project
