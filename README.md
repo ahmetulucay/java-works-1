@@ -1,6 +1,6 @@
 # JAVA-WORKS
 
-atm project
+atm (bank) project
 
 idman (gym) project
 
