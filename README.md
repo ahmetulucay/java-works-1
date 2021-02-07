@@ -1,5 +1,11 @@
 # JAVA-WORKS
 
-While - do loops
+if - else
 
-Different Projects
+while - do loops
+
+for loops
+
+mini bank project
+
+other projects
