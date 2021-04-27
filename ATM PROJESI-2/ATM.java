@@ -8,10 +8,10 @@ public class ATM {
         System.out.println("************************");
         if (log.login(hesap)) {
             while (true){
-                System.out.println("ATM islemleri= \n" +
-                        "1 = Bakiye Goruntuleme \n" +
-                        "2 = ParaCekme \n" +
-                        "3 = ParaYatirma \n" +
+                System.out.println("ATM islemleri=\n" +
+                        "1 = Bakiye Goruntuleme\n" +
+                        "2 = ParaCekme\n" +
+                        "3 = ParaYatirma\n" +
                         "4 = Cikis");
 
                 Scanner scanner = new Scanner(System.in);
