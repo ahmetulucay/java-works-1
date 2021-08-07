@@ -7,8 +7,8 @@ public class Test {
 
     public static void islemleriBastir(){
 
-        System.out.println("***********************************");
-        System.out.println("\t SARKICI UYGULAMASINA HOSGELDINIZ....");
+        System.out.println("**********************************");
+        System.out.println("\t SARKICI UYGULAMASINA HOSGELDINIZ...");
         System.out.println("\t 0-Islemleri Goruntule");
         System.out.println("\t 1-Sarkicilari Goruntule");
         System.out.println("\t 2-Sarkici Ekle");
@@ -16,7 +16,7 @@ public class Test {
         System.out.println("\t 4-Sarkici Sil");
         System.out.println("\t 5-Sarkici Ara");
         System.out.println("\t 6-Uygulamadan Cik");
-        System.out.println("***********************************");
+        System.out.println("**********************************");
     }
 
     public static void sarkiciGoruntule(){
